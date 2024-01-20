@@ -41,3 +41,41 @@ color: #2e2f42;
 .contacts-link:hover, .contacts-link:focus{
     color: #404bbf;
 }
+
+.business{
+    background-color: #2e2f42;
+}
+
+.business-title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.business-btn{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.business-btn:hover, .business-btn:focus{
+    background-color: #404BBF;
+}
+
+.plan-title{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.plan-text{
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
